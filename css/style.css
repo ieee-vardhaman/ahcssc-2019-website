@@ -1,12 +1,21 @@
-.about {
-    background-color: #fff5eb;
+.top {
+    padding: 50px 20px;
+    margin-top: 60px;
 }
 
-.logos img{
+.top, .about {
+    background-color: #fffbfb;
+}
+
+.about .site-logo {
+    padding-bottom: 30px;
+}
+
+footer .logos img{
     height: 60px;
     margin: 20px;
 }
 
-.copyright{
+footer .copyright{
     padding-top: 30px;
 }
