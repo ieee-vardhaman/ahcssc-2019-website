@@ -6,7 +6,7 @@ permalink: /
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
-                <div class="p-5">
+                <div class="p-5 content">
                     <img src="img/ahcssc-logo.png" class="img-fluid site-logo" />
                     <p>IEEE AHCSSC 2019 is the second of the kind, an yearly conference from the Hyderabad Section of
                         IEEE Computer Society.</p>
@@ -24,6 +24,14 @@ permalink: /
             <div class="col-lg-6">
                 <iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/zRccyuaki84" frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <div class="p-5">
+                    <h2>Media Partner</h2>
+                    <img src="img/begrad-logo.png" style="height: 50px;"><span style="padding-left: 10px; font-size: 24px">Grad</span>
+                </div>
             </div>
         </div>
     </div>

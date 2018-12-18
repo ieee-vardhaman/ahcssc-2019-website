@@ -3,7 +3,8 @@
     margin-top: 60px;
 }
 
-.top, .about {
+.top,
+.about {
     background-color: #fffbfb;
 }
 
@@ -11,11 +12,20 @@
     padding-bottom: 30px;
 }
 
-footer .logos img{
+.about .content {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+footer .logos img {
     height: 60px;
     margin: 20px;
 }
 
-footer .copyright{
+footer .copyright {
     padding-top: 30px;
+}
+
+.sponsor-logo {
+    height: 100px;
 }
