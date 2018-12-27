@@ -4,6 +4,56 @@ permalink: /accommodation
 ---
 # Accommodation
 ---
+## Hotel Royal Plaza
+
+**Address:** NH-44, Near RGI Police Station, Siddanthi colony, Siddanthi, Shamshabad, Hyderabad, Telangana.
+
+**Phone:** 96666 929655
+
+**Cost:** ₹ 2000 for 3
+
+---
+
+## Hotel Neem Tree
+
+**Address:** 14-158, NH-44, Airport Road, Near Indira Hospital, Hyderabad, Telangana.
+
+**Phone:** 83338 12345, 85009 12345
+
+**Cost:** ₹ 1800 for 4
+
+---
+
+## Bharat Hotel & Lodge
+
+**Address:** Yes Bawarchi hotel, Near Dena Bank, Madhuranagar, Shamshabad, R.R.District, Telangana.
+
+**Phone:** 98487 23368, 98485 63850
+
+**Cost:** ₹ 800 for 3
+
+---
+
+## Hotel JC Residency and Lodge
+
+**Address:** Yes Bawarchi hotel, Airport Road, Shamshabad, R.R.District, Telangana.
+
+**Phone:** 95055 53304, 98485 63850
+
+**Cost:** ₹ 800 for 3
+
+---
+
+## Best Boys Hostel
+
+**Address:** 20-170/1/1, MSR building, beside Indane Gas Company, Rallaguda road, Shamshabad, R.R.District., Telangana.
+
+**Phone:** 96667 86086, 98489 77967
+
+**Cost:** ₹ 200/day
+
+---
+
 ## Hotel Swagath Grand
 
 **Address:** D.No.11-3/1/2, Beside HDFC Bank, Shamshabad, Hyderabad, Telangana 501218
