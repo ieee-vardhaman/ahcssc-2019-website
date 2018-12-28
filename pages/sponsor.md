@@ -15,6 +15,32 @@ Alternatively, you can directly send money to us using these details:
 **Bank Swift Code :** SBI NIN BB 321  
 **IFSC Code :** SBIN0003032  
 **MIRC Code :** 500002047  
+<br><br>
+
+### Silver Sponsors
+<div class="row logos">
+    <div class="col">
+        <img src="/img/sponsors/energetic-info-solutions.jpg">
+    </div>
+</div>
+<br>
+
+### Implementation Partners
+<div class="row logos">
+    <div class="col">
+        <img src="/img/sponsors/crave.png">
+    </div>
+    <div class="col">
+        <img src="/img/sponsors/ieee-pes.png">
+    </div>
+    <div class="col">
+        <img src="/img/sponsors/mohan-overseas.png">
+    </div>
+    <div class="col">
+        <img src="/img/sponsors/my-optics.jpg">
+    </div>
+</div>
+<br>
 
 ## Media Partner
-<img src="img/begrad-logo.png" style="height: 50px;"><span style="padding-left: 10px; font-size: 24px;">Grad</span>
+<img src="/img/begrad-logo.png" style="height: 50px;"><span style="padding-left: 10px; font-size: 24px;">Grad</span>
