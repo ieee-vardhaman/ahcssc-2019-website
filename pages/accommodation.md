@@ -4,6 +4,22 @@ permalink: /accommodation
 ---
 # Accommodation
 ---
+## OYO 13636 Sri Vinayaka Grand
+
+**Address**: Madhura Nagar, Shamshabad, Hyderabad
+
+**Room Category**: Classic (2X)
+
+**Cost**: 1460 (tax inclusive) for 3
+
+For discounts, kindly, please contact our OYO Rooms Representative, Varsha MK
+
+**Email:** varsha.mk@oyorooms.com
+
+**Phone:** +91 63605 60042
+
+---
+
 ## Hotel Royal Plaza
 
 **Address:** NH-44, Near RGI Police Station, Siddanthi colony, Siddanthi, Shamshabad, Hyderabad, Telangana.
