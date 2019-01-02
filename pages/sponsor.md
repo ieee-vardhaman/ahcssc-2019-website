@@ -1,6 +1,6 @@
 ---
 layout: generic
-permalink: sponsor
+permalink: /sponsor
 ---
 # Our Sponsors
 ---
@@ -42,5 +42,5 @@ Alternatively, you can directly send money to us using these details:
 </div>
 <br>
 
-## Media Partner
+### Media Partner
 <img src="/img/begrad-logo.png" style="height: 50px;"><span style="padding-left: 10px; font-size: 24px;">Grad</span>

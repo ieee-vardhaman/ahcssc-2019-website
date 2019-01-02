@@ -29,7 +29,30 @@ permalink: /
         <div class="row align-items-center">
             <div class="col-lg-12">
                 <div class="p-5">
-                    <h2>Media Partner</h2>
+                    <h3>Silver Sponsors</h3>
+                    <div class="row logos">
+                        <div class="col">
+                            <img src="/img/sponsors/energetic-info-solutions.jpg">
+                        </div>
+                    </div>
+                    <br>
+                    <h3>Implementation Partners</h3>
+                    <div class="row logos">
+                        <div class="col">
+                            <img src="/img/sponsors/crave.png">
+                        </div>
+                        <div class="col">
+                            <img src="/img/sponsors/ieee-pes.png">
+                        </div>
+                        <div class="col">
+                            <img src="/img/sponsors/mohan-overseas.png">
+                        </div>
+                        <div class="col">
+                            <img src="/img/sponsors/my-optics.jpg">
+                        </div>
+                    </div>
+                    <br>
+                    <h3>Media Partner</h3>
                     <img src="img/begrad-logo.png" style="height: 50px;"><span style="padding-left: 10px; font-size: 24px">Grad</span>
                 </div>
             </div>
