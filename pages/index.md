@@ -57,5 +57,28 @@ permalink: /
                 </div>
             </div>
         </div>
+        <h1 style="text-align: center;">Partner Colleges</h1>
+        <div class="d-flex flex-wrap justify-content-around logos">
+            <img src="/img/colleges/anurag.jpg">
+            <img src="/img/colleges/cvsr.jpg">
+            <img src="/img/colleges/sasi.jpg">
+            <img src="/img/colleges/giet.png">
+            <img src="/img/colleges/jayamukhi.jpg">
+            <img src="/img/colleges/st-peters.jpg">
+            <img src="/img/colleges/vaagdevi.png">
+            <img src="/img/colleges/vnr.png">
+            <img src="/img/colleges/aditya.png">
+            <img src="/img/colleges/sits.png">
+            <img src="/img/colleges/jeppiar.png">
+            <img src="/img/colleges/drk.png">
+            <img src="/img/colleges/malla-reddy.jpg">
+            <img src="/img/colleges/griet.png">
+            <img src="/img/colleges/mlr.jpg">
+            <img src="/img/colleges/aurora.jpg">
+            <img src="/img/colleges/lpu.png">
+            <img src="/img/colleges/cbit.png">
+            <img src="/img/colleges/mjcet.jpg">
+        </div>
+        <hr>
     </div>
 </section>
